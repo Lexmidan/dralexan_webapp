@@ -1,0 +1,10 @@
+pandas
+matplotlib
+dash
+plotly
+torch
+numpy
+tensorboard
+dash_bootstrap_components
+dash_auth
+flask
